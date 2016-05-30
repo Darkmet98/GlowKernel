@@ -13,16 +13,6 @@ clone the project:
 
         $ git clone https://github.com/Darkmet98/GlowKernel.git
 
-After it, choose the version you would like to build:
-
-*Aquaris X5 *
-
-        $ mv aquaris-X5 kernel
-        $ cd kernel
-        $ git checkout aquaris-X5_4.X
-
-At the same level of the "kernel" directory:
-
 Download a UBER Toolchains
 
         https://bitbucket.org/UBERTC/arm-eabi-4.8/downloads
