@@ -44,6 +44,6 @@ You can specify "-j CORES" argument to speed-up your compilation, example:
 		
 CREDITS
 =============
--Darkmet98
--Faux123 (For the FastCharging)
+*Darkmet98
+*Faux123 (For the FastCharging)
 
