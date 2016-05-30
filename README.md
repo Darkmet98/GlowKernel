@@ -23,9 +23,11 @@ After it, choose the version you would like to build:
 
 At the same level of the "kernel" directory:
 
-Download a prebuilt gcc
+Download a UBER Toolchains
 
-        $ git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+        https://bitbucket.org/UBERTC/arm-eabi-4.8/downloads
+		$ mkdir arm-eabi-4.8
+		And extract it
 
 Create KERNEL_OUT dir:
 
